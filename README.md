@@ -304,8 +304,8 @@ Thank you for donating:
 
 - [Oleg Serbin](https://github.com/oserbin)
 
-## License
 
-Copyright (c) 2018 Atul Yadav http://github.com/atulmy
 
-The MIT License (http://www.opensource.org/licenses/mit-license.php)
+
+
+
